@@ -4628,7 +4628,7 @@ var acf;
 				$.getScript('https://www.google.com/jsapi', function(){
 					
 					// load maps
-				    google.load('maps', '3', { other_params: 'sensor=false&libraries=places', callback: function(){
+				    google.load('maps', '3', { other_params: 'key=AIzaSyD5E96XGDBpVC6QLhNLswAdU5iBK24F44Q&libraries=places', callback: function(){
 				    	
 				    	// set status
 				    	self.status = 'ready';
@@ -4654,7 +4654,7 @@ var acf;
 				
 				
 				// load maps
-			    google.load('maps', '3', { other_params: 'sensor=false&libraries=places', callback: function(){
+			    google.load('maps', '3', { other_params: 'key=AIzaSyD5E96XGDBpVC6QLhNLswAdU5iBK24F44Q&libraries=places', callback: function(){
 			    	
 			    	// set status
 			    	self.status = 'ready';
