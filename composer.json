@@ -1,0 +1,16 @@
+{
+    "name": "misfist/advanced-custom-fields",
+    "description": "Advanced Custom Fields Pro.",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Pea",
+            "email": "pea@misfist.com"
+        }
+    ],
+    "repositories": {
+      "type": "vcs",
+      "url": "https://github.com/misfist/advanced-custom-fields"
+    },
+    "require": {}
+}
