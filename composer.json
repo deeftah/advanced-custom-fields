@@ -1,6 +1,10 @@
 {
     "name": "misfist/advanced-custom-fields",
-    "description": "Advanced Custom Fields Pro.",
+    "description": "Advanced Custom Fields plugin for WordPress.",
+    "type": "wordpress-plugin",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
     "license": "GPL-3.0",
     "authors": [
         {
@@ -8,9 +12,5 @@
             "email": "pea@misfist.com"
         }
     ],
-    "repositories": {
-      "type": "vcs",
-      "url": "https://github.com/misfist/advanced-custom-fields"
-    },
     "require": {}
 }
